@@ -1,4 +1,4 @@
-# 集合
+# 集合 一系列无序的、唯一的元素组合
 
 basket = {'apple', 'orange', 'apple', 'pear', 'orange', 'banana'}
 print(basket)
