@@ -20,7 +20,9 @@ print(s.lstrip())
 print(s.rstrip())
 print(s.strip())
 
-id = 1
+code = 1
 name = 'xxx'
-print('no data available for person with id: {}, name: {}'.format(id, name))
+print('no data available for person with id: {}, name: {}'.format(code, name))
+
+print(list(range(0, 10000)))
 
